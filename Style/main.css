@@ -7,24 +7,48 @@
 #banaan {
     background-color: yellow;
 }
+#banaan_foto {
+    background-color: rgb(150, 130, 22);
+}
 #appel {
     background-color: red; 
+}
+#appel_foto {
+    background-color: rgb(100, 0, 0);
 }
 #perzik {
     background-color: #fab983;
 }
+#perzik_foto {
+    background-color: rgb(150, 122, 71);
+}
 #kiwi {
     background-color: #7A960F;
+}
+#kiwi_foto {
+    background-color: rgb(0, 100, 0);
 }
 #peer {
     background-color: #d1e231;
 }
+#peer_foto {
+    background-color: rgb(150, 150, 0);
+}
 #mango {
     background-color: #FFBF34;
+}
+#mango_foto {
+    background-color: rgb(136, 94, 15);
 }
 #mandarijn {
     background-color: #f37a48;
 }
+#mandarijn_foto {
+    background-color: rgb(255, 102, 0);
+}
 #meloen {
     background-color: #fdbcb4;
+}
+#meloen_foto {
+    background-color: rgb(255, 116, 116);
 }
